@@ -1,0 +1,4 @@
+baseURL = 'https://michaeldavidkelley.github.io/'
+languageCode = 'en-us'
+title = 'Rand0mb1ts'
+theme = "cactus"
